@@ -8,6 +8,28 @@
 
 <div align="center">
   <h2>
+    # IntroDuce<br> 
+  </h2>
+</div>
+
+
+
+<h4>
+  🎓 major : Information & Communication Technology  
+</h4>
+<h4>
+   📮 email : ddignm1044@gmail.com
+  </h4>
+  <h4>
+   🏆 awards : 중부대학교 2021-2 캡스톤 경진대회 장려상, JB-Valley 창업 경진대회 우수상
+  </h4>
+
+
+
+
+
+<div align="center">
+  <h2>
     # Technology Stack
   </h2>
 <br/>
@@ -28,13 +50,6 @@
 <div align="center"> <h2>
   # GitHub Stats
   </h2>
-
-​                                      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhaud98&show_icons=true)](https://github.com/qhaud98)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhaud98)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhaud98&show_icons=true)](https://github.com/qhaud98) 
 
 
-<div align="center"> <h2>
-  # Most Languages
-  </h2>
-
-​                                                          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhaud98)](https://github.com/anuraghazra/github-readme-stats)

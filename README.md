@@ -15,7 +15,6 @@
 
 
 
-
 <h4>
   🎓 major : Information & Communication Technology  
 </h4>
